@@ -1,0 +1,22 @@
+body {
+    background-color:blueviolet;
+}
+
+h1 {
+    text-align: center;
+    color:yellow;
+}
+
+.row {
+    margin: 25px 25px;
+}
+
+.card {
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.list-group-item {
+    background-color: rgb(237, 132, 11);
+    color:honeydew;
+}
