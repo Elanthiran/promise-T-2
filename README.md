@@ -18,19 +18,20 @@ The project demonstrates API fetching with **async/await**, dynamic DOM renderin
 ├── index.html # Main HTML file
 ├── style.css # Styling and UI design
 └── script.js # API fetch + rendering logic
+└── isro.png # UI
 
 
 ---
 
-## 🔧 Clone and Setup
-1. Clone the repository:
+ ## 🔧 Clone and Setup
+ Clone the repository:
    ```bash
    git clone https://github.com/Elanthiran/promise-T-2.git
    cd promise-T-2
-```
+   ```
 ---
 
-##📌 Usage
+# 📌 Usage
 
 1. On page load, the app fetches ISRO’s customer satellites data.
 
@@ -38,13 +39,13 @@ The project demonstrates API fetching with **async/await**, dynamic DOM renderin
 
 ---
 
-##📷 Screenshots
+## 📷 Screenshots
 
-(Add screenshots of your app UI here)
+![promise-T-2](./isro.png)
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5 – Structure
 
@@ -58,7 +59,7 @@ The project demonstrates API fetching with **async/await**, dynamic DOM renderin
 
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add search and filter by country or year.
 
